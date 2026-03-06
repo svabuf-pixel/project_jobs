@@ -2,7 +2,7 @@
 This repository contains a comprehensive analysis of the Data Science job market, focusing on the relationship between technical competencies, company demographics, and compensation.
 
 ## 📌 Project Overview
-The goal of this project was to identify the "Value Drivers" in the data science industry. By analyzing job postings and company data, we've mapped out how specific skills influence salary and how company scale affects the workplace experience.
+The goal of this project was to identify the "Value Drivers" in the data science industry. By analyzing job postings and company data, we've mapped out how specific skills influence salary and how company scale affects the workplace experience. 22 columns and 956 rows.
 
 ### 📊 1. Technical Skill Analysis
 
