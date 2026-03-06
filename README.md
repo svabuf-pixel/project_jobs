@@ -32,6 +32,8 @@ There is a direct relationship between salary brackets and the necessity of Pyth
 2. In the highest salary bracket ($214k–$254k$), Python is a 100% requirement.
 
 <img width="1071" height="532" alt="image" src="https://github.com/user-attachments/assets/2618abd7-58b9-4a70-b8da-7ce9a1458400" />
+<img width="1191" height="590" alt="image" src="https://github.com/user-attachments/assets/dd67e9ba-d8d8-4ed0-a5dd-3f58fb79d752" />
+<img width="1187" height="587" alt="image" src="https://github.com/user-attachments/assets/5f08515d-e9bb-42af-b7b7-6220068d04c8" />
 
 
 ### 🏢 3. Company & Sector Insights
@@ -45,6 +47,13 @@ One of the most surprising findings was the disconnect between company size and 
 3. Company Ratings: Larger, high-revenue companies tend to have slightly lower ratings (-0.3) compared to smaller firms.
 
 <img width="783" height="638" alt="image" src="https://github.com/user-attachments/assets/c1802846-fc59-4efd-b760-45ca452e4e2d" />
+
+### 📍Salary by Location
+
+1. The most listed jobs by state is in CA followed by Massachusetts and NY, comparing the jobs count and average salary, I'm surprised that NY has such low salary.
+   
+<img width="215" height="250" alt="image" src="https://github.com/user-attachments/assets/3c8751b7-f963-4b0d-9a4b-98706e92e0c0" />
+<img width="265" height="271" alt="image" src="https://github.com/user-attachments/assets/4cb3335c-2f6a-48e3-b7e9-ef967ae53a2d" />
 
 
 ### 🚀 Key Takeaways
